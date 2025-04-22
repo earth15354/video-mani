@@ -21,4 +21,3 @@ grounding_outputs/
 hamer_demo_out/
 hamer_test_out/
 rosbags/
-integration_test/
